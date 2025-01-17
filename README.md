@@ -29,3 +29,6 @@ console.error()
 console.warn()
 console.table()
 ```
+
+### Info 6
+I like the black `#000` color but not the white `#fff`
