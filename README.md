@@ -32,3 +32,7 @@ console.table()
 
 ### Info 6
 I like the black `#000000` color but not the white `#ffffff`
+
+
+### Info 7 
+Watch me on [Youtube](https://youtube.com)
