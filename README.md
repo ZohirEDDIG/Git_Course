@@ -17,3 +17,9 @@ __I am a front end _developer___
 ***I am happy***
 I like these denotes H<sub>2</sub>O and x<sup>2</sup>
 what do yo think about this price price: 50$ compared to the old price: <ins>100$</ins>
+
+### Info 4
+I like this quote: > Do it or not time will pass
+
+### Info 5
+Use `console.log()` to log to the console
