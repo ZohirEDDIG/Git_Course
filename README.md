@@ -24,8 +24,8 @@ I like this quote: > Do it or not time will pass
 ### Info 5
 Use `console.log()` to log to the console
 The are also these methods: 
-`
+```
 console.error()
 console.warn()
 console.table()
-`
+```
